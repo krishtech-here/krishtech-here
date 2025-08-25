@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋, I'm Krishna  
 
-<!--
-**krishtech-here/krishtech-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate and a Persistent **Computer Science student** with a focus on **Web Development (especially in backend) & Design**.  
+I love building creative projects and exploring new technologies that solve real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Frameworks  
+- **Frontend**: HTML, CSS, JavaScript, React.js (basics)  
+- **Backend**: PHP, SQL  
+- **Other**: Problem Solving, APIs  
+
+---
+
+## ⚙️ Tools & Platforms  
+- Git & GitHub  
+- Figma & Canva (Design)  
+- XAMPP (Local server setup)  
+- Firebase (Backend as a service)  
+- Make.com (Business automation)  
+- VS Code, Terminal  
+
+---
+
+## 📌 Featured Projects  
+- 🌐 [**Portfolio Site**](https://github.com/krishtech-here/PortFolio-Site) – My personal portfolio built using HTML & CSS.  
+- 🤖 [**Legal Chatbot**](https://github.com/krishtech-here/legal-chatbot) – AI-powered legal guidance assistant.  
+- ⚡ [**JS Projects**](https://github.com/krishtech-here/Js-Projects) – Collection of JavaScript projects.  
+
+---
+
+## 📊 GitHub Stats  
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishtech-here&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishtech-here&layout=compact&theme=tokyonight)  
+
+---
+
+## 🤝 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/krishna-b-s-b35628319/) 
+- 🌎 [Portfolio Website](https://github.com/krishtech-here/PortFolio-Site)  
+- 📧 krishinto.tech@gmail.com  
+
+---
+✨ _"Keep building. Keep learning."_ ✨
+
+
+
