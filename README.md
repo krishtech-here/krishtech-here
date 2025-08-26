@@ -34,6 +34,12 @@ I love building creative projects and exploring new technologies that solve real
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishtech-here&layout=compact&theme=tokyonight)-->
 
 ---
+<details>
+  <summary>⚡ Fun Fact</summary>
+  <br>
+  💔 My commits are more consistent than my love life.
+</details>
+---
 
 ## 🤝 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishna-b-s-b35628319/) 
