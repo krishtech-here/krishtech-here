@@ -52,14 +52,12 @@ I love building creative projects and exploring new technologies that solve real
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishtech-here&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishtech-here&theme=radical)  
 
 ## 🤝 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishna-b-s-b35628319/) 
 - 🌎 [Portfolio Website](https://github.com/krishtech-here/PortFolio-Site)  
 - 📧 krishinto.tech@gmail.com
 
-![snake gif](https://github.com/krishtech-here/krishtech-here/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ✨ _"Keep building. Keep learning."_ ✨
