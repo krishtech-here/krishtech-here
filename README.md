@@ -27,12 +27,11 @@ I love building creative projects and exploring new technologies that solve real
 - 🤖 [**Legal Chatbot**](https://github.com/krishtech-here/legal-chatbot) – AI-powered legal guidance assistant.  
 - ⚡ [**JS Projects**](https://github.com/krishtech-here/Js-Projects) – Collection of JavaScript projects.  
 
----
 
 <!--## 📊 GitHub Stats  
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishtech-here&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishtech-here&layout=compact&theme=tokyonight)-->.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishtech-here&layout=compact&theme=tokyonight)-->
 
 ---
 
