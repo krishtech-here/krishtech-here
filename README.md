@@ -47,13 +47,12 @@ I love building creative projects and exploring new technologies that solve real
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB) 
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
+
 ## 📊 GitHub Stats  
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishtech-here&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishtech-here&theme=radical)  
 
 ## 🤝 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishna-b-s-b35628319/) 
