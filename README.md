@@ -37,6 +37,11 @@ I love building creative projects and exploring new technologies that solve real
 ## ⚡ Fun Fact  
 > 💔 My commits are more consistent than my love life.
 
+## 🛠️ Tech Stack  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
 
 
 ## 🤝 Connect With Me  
