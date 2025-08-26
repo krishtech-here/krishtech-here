@@ -38,10 +38,14 @@ I love building creative projects and exploring new technologies that solve real
 > 💔 My commits are more consistent than my love life.
 
 ## 🛠️ Tech Stack  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
+
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032) 
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff) 
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC) 
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB) 
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 
 ## 🤝 Connect With Me  
